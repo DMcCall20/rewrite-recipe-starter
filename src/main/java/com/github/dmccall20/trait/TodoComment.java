@@ -1,4 +1,4 @@
-package com.yourorg.trait;
+package com.github.dmccall20.trait;
 
 import lombok.Getter;
 import lombok.Value;

@@ -1,7 +1,7 @@
-package com.yourorg;
+package com.github.dmccall20;
 
-import com.yourorg.table.TodoCommentsReport;
-import com.yourorg.trait.TodoComment;
+import com.github.dmccall20.table.TodoCommentsReport;
+import com.github.dmccall20.trait.TodoComment;
 import lombok.EqualsAndHashCode;
 import lombok.Value;
 import org.jspecify.annotations.Nullable;

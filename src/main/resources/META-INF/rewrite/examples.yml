@@ -13,7 +13,7 @@
 # limitations under the License.
 ---
 type: specs.openrewrite.org/v1beta/example
-recipeName: com.yourorg.AssertEqualsToAssertThat
+recipeName: com.github.dmccall20.AssertEqualsToAssertThat
 examples:
 - description: ''
   sources:
@@ -36,7 +36,7 @@ examples:
     language: java
 ---
 type: specs.openrewrite.org/v1beta/example
-recipeName: com.yourorg.EqualsAvoidsNullRecipe
+recipeName: com.github.dmccall20.EqualsAvoidsNullRecipe
 examples:
 - description: ''
   sources:
@@ -63,7 +63,7 @@ examples:
     language: java
 ---
 type: specs.openrewrite.org/v1beta/example
-recipeName: com.yourorg.FindSpringBeans
+recipeName: com.github.dmccall20.FindSpringBeans
 examples:
 - description: ''
   sources:
@@ -122,7 +122,7 @@ examples:
     language: java
 ---
 type: specs.openrewrite.org/v1beta/example
-recipeName: com.yourorg.NoCollectionMutation
+recipeName: com.github.dmccall20.NoCollectionMutation
 examples:
 - description: ''
   sources:
@@ -155,7 +155,7 @@ examples:
     language: java
 ---
 type: specs.openrewrite.org/v1beta/example
-recipeName: com.yourorg.NoGuavaListsNewArrayList
+recipeName: com.github.dmccall20.NoGuavaListsNewArrayList
 examples:
 - description: ''
   sources:
@@ -177,7 +177,7 @@ examples:
     language: java
 ---
 type: specs.openrewrite.org/v1beta/example
-recipeName: com.yourorg.SimplifyTernaryRecipes
+recipeName: com.github.dmccall20.SimplifyTernaryRecipes
 examples:
 - description: ''
   sources:
@@ -234,7 +234,7 @@ examples:
     language: java
 ---
 type: specs.openrewrite.org/v1beta/example
-recipeName: com.yourorg.TrackJavaTodos
+recipeName: com.github.dmccall20.TrackJavaTodos
 examples:
 - description: ''
   parameters:
@@ -254,7 +254,7 @@ examples:
     language: java
 ---
 type: specs.openrewrite.org/v1beta/example
-recipeName: com.yourorg.TrackTodos
+recipeName: com.github.dmccall20.TrackTodos
 examples:
 - description: ''
   parameters:
@@ -274,7 +274,7 @@ examples:
     language: java
 ---
 type: specs.openrewrite.org/v1beta/example
-recipeName: com.yourorg.UpdateConcoursePipeline
+recipeName: com.github.dmccall20.UpdateConcoursePipeline
 examples:
 - description: ''
   parameters:
@@ -299,7 +299,7 @@ examples:
     language: yaml
 ---
 type: specs.openrewrite.org/v1beta/example
-recipeName: com.yourorg.UseApacheStringUtils
+recipeName: com.github.dmccall20.UseApacheStringUtils
 examples:
 - description: ''
   sources:
@@ -322,7 +322,7 @@ examples:
     language: java
 ---
 type: specs.openrewrite.org/v1beta/example
-recipeName: com.yourorg.UseIntegerValueOf
+recipeName: com.github.dmccall20.UseIntegerValueOf
 examples:
 - description: ''
   sources:
@@ -337,7 +337,7 @@ examples:
     language: java
 ---
 type: specs.openrewrite.org/v1beta/example
-recipeName: com.yourorg.UseOpenRewriteNullable
+recipeName: com.github.dmccall20.UseOpenRewriteNullable
 examples:
 - description: ''
   sources:
@@ -358,7 +358,7 @@ examples:
     language: java
 ---
 type: specs.openrewrite.org/v1beta/example
-recipeName: com.yourorg.UseSdkManJavaVersion
+recipeName: com.github.dmccall20.UseSdkManJavaVersion
 examples:
 - description: ''
   sources:

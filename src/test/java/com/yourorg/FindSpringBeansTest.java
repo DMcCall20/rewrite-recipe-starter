@@ -13,9 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.yourorg;
+package com.github.dmccall20;
 
-import com.yourorg.table.SpringBeansReport;
+import com.github.dmccall20.table.SpringBeansReport;
 import org.junit.jupiter.api.Test;
 import org.openrewrite.DocumentExample;
 import org.openrewrite.PathUtils;

@@ -1,4 +1,4 @@
-package com.yourorg;
+package com.github.dmccall20;
 
 import lombok.EqualsAndHashCode;
 import lombok.Value;

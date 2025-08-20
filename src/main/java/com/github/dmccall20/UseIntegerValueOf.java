@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.yourorg;
+package com.github.dmccall20;
 
 import org.openrewrite.Recipe;
 

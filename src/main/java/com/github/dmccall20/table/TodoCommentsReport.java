@@ -1,4 +1,4 @@
-package com.yourorg.table;
+package com.github.dmccall20.table;
 
 import lombok.Value;
 import org.openrewrite.Column;
